@@ -1,0 +1,1 @@
+(window.webpackJsonpFileIcons=window.webpackJsonpFileIcons||[]).push([[532],{439:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e99c",ref:"netlogo",path:"M0 99l1024 394L7 925l205-412L0 99z"}}}]);

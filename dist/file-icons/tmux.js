@@ -1,0 +1,1 @@
+(window.webpackJsonpFileIcons=window.webpackJsonpFileIcons||[]).push([[718],{679:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea8c",ref:"tmux",path:"M544 45h384q40 0 68 28t28 68v339H544V45m-64 0H96q-40 0-68 28T0 141v838h480V45m64 499v435h480V544H544z"}}}]);

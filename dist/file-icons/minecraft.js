@@ -1,0 +1,1 @@
+(window.webpackJsonpFileIcons=window.webpackJsonpFileIcons||[]).push([[512],{503:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9dc",ref:"minecraft",path:"M0 0h340v345H0V0m682 0h340v345H682V0m0 345H340v172H170v507h170V851h342v173h171V517H682V345z"}}}]);

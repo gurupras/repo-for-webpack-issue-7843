@@ -1,0 +1,1 @@
+(window.webpackJsonpFileIcons=window.webpackJsonpFileIcons||[]).push([[226],{330:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e92f",ref:"arc",path:"M396 512h232v400H396V512M0 0v1024h1024V0H0m969 969H55V512h341V112h232v400h341v457z"}}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonpFileIcons=window.webpackJsonpFileIcons||[]).push([[174],{170:function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e6a2",ref:"terminal-badge",path:"M512 768h512v128H512V768M128 896l384-384-384-384L0 256l256 256L0 768l128 128z"}}}]);

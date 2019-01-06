@@ -1,0 +1,1 @@
+(window.webpackJsonpFileIcons=window.webpackJsonpFileIcons||[]).push([[1752],{1750:function(o){o.exports={viewBox:"0 0 12 16",font:"octicons",ref:"triangle-up",path:"M12 11L6 5l-6 6h12z"}}}]);
